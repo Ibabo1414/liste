@@ -1,1 +1,87 @@
-/* Insert your CSS here */
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	border: 2px solid;
+  	padding: 80px;
+  	padding-top: 38px;
+  	box-shadow: 10px 10px 90px;
+  	margin: 57px 280px 57px 280px;
+  	border-top: 25px solid red;
+}
+
+.Dev-web{
+	margin-left: 4px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	color: red;
+}
+
+span{
+	margin-left: 160px;
+	color: red;
+}
+.date{
+	margin-left: 209px;
+}
+
+.Lis-pre{
+	margin-left: 4px;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgb(60, 60, 60);
+}
+.colo{
+	border-bottom: 7px solid red;
+	margin-left: 4px;
+	max-width: 60px;
+	margin-bottom: 42px;
+}
+table{
+	border-collapse: collapse;
+}
+
+table, td, th{
+	border: 1px solid black;
+	height: 28px;
+}
+.rens{
+	text-align: left;
+	background-color: red;
+	color: white;
+}
+.num{
+	width: 28px;
+	text-align: center;
+	background-color: red;
+	color: white;
+}
+.time{
+	width: 130px;
+	text-align: center;
+	background-color: red;
+	color: white;
+}
+.sign{
+	width: 100px;
+	text-align: center;
+	background-color: red;
+	color: white;
+}
+th{
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+td{
+	height: 28px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;	
+}
+.chi{
+	text-align: center;
+}
+.letmo{
+	text-align: center;
+	margin-top: 26px;
+	color: #787878;
+	font-size: 18px;
+}
